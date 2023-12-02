@@ -1,4 +1,4 @@
-#   📚 Lógica de Programação - Projeto final
+#   📚  Projeto final - Ifome (Back-End)
 
 ---
 
@@ -6,4 +6,4 @@
 
 ---
 
-![Descricao do Projeto]([https://imgbox.com/AcbCYTdQ])
+[![aula01.png](https://i.postimg.cc/D0WPb7ZK/aula01.png)](https://postimg.cc/T56DzMgk)
